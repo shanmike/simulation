@@ -1,0 +1,12 @@
+.shelvesButton{
+    background: #D34735;
+    color:White;
+    width: 500px;
+    height: 60px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    justify-content: center;
+    align-items: center;
+    font-size:30px;
+    cursor: pointer;
+}
